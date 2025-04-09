@@ -1,4 +1,4 @@
-# 🌐 RODEL - Python + Django
+# 🚀 RODEL - Python + Django
 
 Este proyecto es un APIs RESTful en Python usando el framework robusto y escalable que ofrece Django (y opcionalmente Django REST Framework).
 
