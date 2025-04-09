@@ -32,5 +32,5 @@ Este proyecto es un APIs RESTful en Python usando el framework robusto y escalab
 1. 🔁 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/reyniergo/rodel-python-django-api.git
+cd rodel-python-django-api
